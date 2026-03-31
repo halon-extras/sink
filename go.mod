@@ -1,3 +1,3 @@
 module github.com/halon-extras/sink
 
-go 1.17
+go 1.26
